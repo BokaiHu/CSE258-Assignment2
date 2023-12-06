@@ -14,4 +14,5 @@ Link for the dataset: https://mengtingwan.github.io/data/goodreads. For the spoi
 
 References:
 Mengting Wan, Julian McAuley, "Item Recommendation on Monotonic Behavior Chains", in RecSys'18.
+
 Mengting Wan, Rishabh Misra, Ndapa Nakashole, Julian McAuley, "Fine-Grained Spoiler Detection from Large-Scale Review Corpora", in ACL'19.
