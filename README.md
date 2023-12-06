@@ -12,7 +12,7 @@ We implemented four methods:
 
 Link for the dataset: https://mengtingwan.github.io/data/goodreads. For the spoiler detection task, we only used the goodreads_reviews_spoiler and the detailed book graph to map the book titles and descriptions with the book ID.
 
-References:
+References
 
 Mengting Wan, Julian McAuley, "Item Recommendation on Monotonic Behavior Chains", in RecSys'18.
 
