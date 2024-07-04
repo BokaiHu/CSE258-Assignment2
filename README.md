@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# CSE258-Assignment2
-=======
 # CSE258-Assignment2
 
 This is the assignment 2 of the UCSD CSE258 Recommender System and Web Mining.
