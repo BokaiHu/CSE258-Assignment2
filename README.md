@@ -17,4 +17,3 @@ References
 Mengting Wan, Julian McAuley, "Item Recommendation on Monotonic Behavior Chains", in RecSys'18.
 
 Mengting Wan, Rishabh Misra, Ndapa Nakashole, Julian McAuley, "Fine-Grained Spoiler Detection from Large-Scale Review Corpora", in ACL'19.
->>>>>>> 8f8c3739c55e5c2641a44c48d1da14a0d20ce1b5
